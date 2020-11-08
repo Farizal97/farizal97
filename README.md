@@ -11,6 +11,8 @@
 - Laravel
 - Codeigntier
 - PHP native
+-Javascript
+- Android Native (Java)
 
 ### Certification : 
 - Dicoding Belajar Android Pemula
