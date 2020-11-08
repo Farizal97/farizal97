@@ -8,7 +8,8 @@
 - STMIK Techno Informatika
 
 ### Playground :
-- Laravel 
+- Laravel
+- Codeigntier
 - PHP native
 
 ### Certification : 
