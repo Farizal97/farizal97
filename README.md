@@ -18,6 +18,8 @@
 - Dicoding Belajar Android Pemula
 - Dicoding Belajar Dasar Pemrograman Web
 - Dicoding Fundamental Frontend Web-Development
+- Babastudio Laravel
+- BuildwithAngga(Anggarisky) Fullstack web Designer
 - bekraft Dicoding Belajar progressive Web 
 
 
