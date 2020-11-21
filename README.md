@@ -1,6 +1,6 @@
 ### Junior Web Developer
 
-![github stats](https://github-readme-stats.vercel.app/api?username=farizal97&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=farizal97&show_icons=true&theme=dark)
 
 ### Works : 
 - PT Maju Jaya Prima
