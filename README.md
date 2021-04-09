@@ -20,8 +20,9 @@
 - Dicoding Fundamental Frontend Web-Development
 - Babastudio Laravel
 - BuildwithAngga(Anggarisky) Fullstack web Designer
-BuildwithAngga(Anggarisky) Fullstack web Developer
+- BuildwithAngga(Anggarisky) Fullstack web Developer
 - bekraft Dicoding Belajar progressive Web 
+- Belajar Fundamental Front-End Web Development 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuramai&theme=vue">
 
