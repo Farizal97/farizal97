@@ -24,6 +24,7 @@
 - bekraft Dicoding Belajar progressive Web 
 - Belajar Fundamental Front-End Web Development 
 - Universitas Telkom Bandung (pelatihan Web Developer - program Vocational School Graduate Academy Digital Talent Scholarship)
+- Junior web developer(BNSP/Kominfo)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuramai&theme=vue">
 
