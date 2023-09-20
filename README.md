@@ -1,5 +1,4 @@
-### Junior Web Developer
-
+### Junior UI UX 
 ![github stats](https://github-readme-stats.vercel.app/api?username=farizal97&show_icons=true&theme=dark)
 
 ### Works : 
@@ -8,21 +7,14 @@
 - STMIK Techno Informatika
 
 ### Playground :
-- Laravel
-- Codeigntier
+- Figma
+- Adobe xd
 - PHP native
--Javascript
-- Android Native (Java)
+- whmsical
 
 ### Certification : 
-- Dicoding Belajar Android Pemula
 - Dicoding Belajar Dasar Pemrograman Web
-- Dicoding Fundamental Frontend Web-Development
-- Babastudio Laravel
 - BuildwithAngga(Anggarisky) Fullstack web Designer
-- BuildwithAngga(Anggarisky) Fullstack web Developer
-- bekraft Dicoding Belajar progressive Web 
-- Belajar Fundamental Front-End Web Development 
 - Universitas Telkom Bandung (pelatihan Web Developer - program Vocational School Graduate Academy Digital Talent Scholarship)
 - Junior web developer(BNSP/Kominfo)
 
