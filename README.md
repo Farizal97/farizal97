@@ -1,4 +1,4 @@
-### Junior UI UX 
+### UI/UX Designer | Web Developer | Quality Assurance
 ![github stats](https://github-readme-stats.vercel.app/api?username=farizal97&show_icons=true&theme=dark)
 
 ### Works : 
