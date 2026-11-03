@@ -11,6 +11,7 @@
 - Figma
 - Adobe xd
 - PHP native
+- Laravel
 - whmsical
 
 ### Certification : 
