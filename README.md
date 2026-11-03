@@ -3,8 +3,9 @@
 
 ### Works : 
 - PT Maju Jaya Prima
-- PT Bhanda Graha Reksa
+- PT Bhanda Graha Reksa(BLi Logistik)
 - STMIK Techno Informatika
+- PT Bank Muamalat Tbk
 
 ### Playground :
 - Figma
