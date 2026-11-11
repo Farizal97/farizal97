@@ -1,5 +1,5 @@
 ### UI/UX Designer | Web Developer | Quality Assurance
-![github stats](https://github-readme-stats.vercel.app/api?username=farizal97&show_icons=true&theme=dark)
+
 
 ### Works : 
 - PT Maju Jaya Prima
@@ -20,7 +20,7 @@
 - Universitas Telkom Bandung (pelatihan Web Developer - program Vocational School Graduate Academy Digital Talent Scholarship)
 - Junior web developer(BNSP/Kominfo)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuramai&theme=vue">
+
 
 
 
